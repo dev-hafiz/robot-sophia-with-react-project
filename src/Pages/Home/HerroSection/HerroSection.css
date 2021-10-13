@@ -1,0 +1,18 @@
+.hero-text{
+     display: flex;
+     justify-content: center;
+     color: white;
+     text-align: center;
+     text-transform: uppercase;
+     
+}
+
+.sub-hero{
+     width: 700px;
+     margin-top: 300px;
+}
+
+.sub-hero h1 {
+     font-weight: bolder;
+     text-shadow: 2px 2px 5px wheat;
+ }

@@ -10,10 +10,10 @@ const Header = () => {
           <div className="top-nav">
              <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
                <Container>
-               <Navbar.Brand href="#home">
+               <Navbar.Brand as={Link}  to="/home">
                <img
                     src={logoRobot}
-                    width="240"
+                    width="226"
                     height="60"
                     className="d-inline-block align-top"
                     alt=""
