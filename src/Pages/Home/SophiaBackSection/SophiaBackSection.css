@@ -1,0 +1,37 @@
+.backSophia-section{
+     background: #1a1a1b;
+     padding: 100px 0;
+}
+
+.left-sec{
+     color: #fff;
+     margin-top: 116px;
+}
+.left-se h2 {
+     font-weight: bolder;
+     font-family: sans-serif;
+}
+
+.btn-hanson {
+     margin-top: 30px;
+     font-family: sans-serif;
+     font-size: 12px;
+     font-weight: 500;
+     border: none;
+     outline: none;
+     text-transform: uppercase;
+     line-height: 2.1em;
+     letter-spacing: 0.9px;
+     fill: #ffffff;
+     color: #1a1a1b;
+     background-color: #eee;
+     border-radius: 100px 100px 100px 100px;
+     box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 10%);
+     padding: 10px 14px;
+}
+
+.btn-hanson:hover{
+     background: #6c6c6d8e;
+     color: white;
+     transition: linear .3s;
+}

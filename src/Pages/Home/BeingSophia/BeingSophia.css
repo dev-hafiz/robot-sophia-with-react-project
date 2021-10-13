@@ -1,0 +1,43 @@
+.sub-right {
+     margin-top: 233px;
+     margin-left: 51px;
+     text-align: justify;
+ }
+
+
+ .sub-right h3 {
+      font-weight: normal;
+      font-family: sans-serif;
+      margin: 20px 0;
+ }
+
+ .sub-right{
+      font-family: sans-serif;
+      font-weight: normal;
+      color: gray;
+ }
+
+
+.book-btn{
+     margin-top: 30px;
+     font-family: sans-serif;
+     font-size: 12px;
+     font-weight: 500;
+     border: none;
+     outline: none;
+     text-transform: uppercase;
+     line-height: 2.1em;
+     letter-spacing: 0.9px;
+     fill: #ffffff;
+     color: #ffffff;
+     background-color: #111111;
+     border-radius: 100px 100px 100px 100px;
+     box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 10%);
+     padding: 10px 14px;
+}
+
+.book-btn:hover {
+     background: #808080;
+     color: #000000;
+     transition: linear .3s;
+}
